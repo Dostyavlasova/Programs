@@ -5,7 +5,7 @@ Version = 6.351
 if fs.exists("dark") == false then
   print("Missing DarkAPI")
   print("Attempting to download...")
-  getGit = http.get("https://raw.github.com/darkrising/darkprograms/darkprograms/api/dark.lua")
+  getGit = http.get("https://github.com/Dostyavlasova/Programs/blob/master/darkprograms/darksecurity/server.lua")
   getGit = getGit.readAll()
   file = fs.open("dark", "w")
   file.write(getGit)
