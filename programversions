@@ -1,12 +1,12 @@
 {
   ["server"]={
-    ["GitURL"]="https://github.com/Dostyavlasova/Programs/blob/master/darkprograms/darksecurity/server.lua",
+    ["GitURL"]="https://raw.github.com/darkrising/darkprograms/darkprograms/darksecurity/server.lua",
     ["Version"]=6.351,
     ["Type"]="program",
-    ["Name"]="Sushi Programs Server",
-    ["Description"]="Sushi Programs Base Security Server",
-    ["Author"]="Sushi",
-    ["Package"]="Sushi Security",
+    ["Name"]="Dark Programs Server",
+    ["Description"]="Dark Programs Base Security Server",
+    ["Author"]="Darkrising",
+    ["Package"]="Dark Security",
   },
   ["client"]={
     ["GitURL"]="https://raw.github.com/darkrising/darkprograms/darkprograms/darksecurity/client.lua",
